@@ -4,16 +4,16 @@
 //
 //  Created by wifin_imac on 4/27/18.
 //  Copyright © 2018 wifin_imac. All rights reserved.
-//
-
+// // Override point for customization after application launch.
+ // Override point for customization after application launch.
 import UIKit
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
-
+ // Override point for customization after application launch.
     var window: UIWindow?
 
-
+ // Override point for customization after application launch.
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         return true
